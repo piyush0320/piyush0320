@@ -29,7 +29,9 @@
 
 ### **Cloud Platforms** ☁️
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+<!--
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+-->
 
 ### **DevOps & CI/CD** ⚙️
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
@@ -42,11 +44,12 @@
 
 ### **Infrastructure as Code (IaC)** 🏗️
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+<!--
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-
+-->
 ### **Monitoring & Logging** 📊
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![DataDog](https://img.logo.dev/datadoghq.com?token=YOUR_API_TOKEN)
+![DataDog](https://img.shields.io/badge/Datadog-632CA6?logo=datadog&logoColor=white)
 
 ---
 
