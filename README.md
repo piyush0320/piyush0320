@@ -46,7 +46,7 @@
 
 ### **Monitoring & Logging** 📊
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![DataDog](https://img.logo.dev/datadoghq.com?token=YOUR_API_TOKEN)
 
 ---
 
