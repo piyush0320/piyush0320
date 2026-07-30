@@ -58,7 +58,7 @@
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piyushpatil0301/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/piyush0320)
 [![Naukri](https://img.shields.io/badge/Naukri-0059A5?style=for-the-badge&logo=naukri&logoColor=white)](https://www.naukri.com/mnjuser/profile)
 
 <!--
