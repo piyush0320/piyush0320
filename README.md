@@ -49,7 +49,7 @@
 -->
 ### **Monitoring & Logging** 📊
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![DataDog](https://img.shields.io/badge/Datadog-632CA6?logo=datadog&logoColor=white)
+![DataDog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
 
 ---
 
