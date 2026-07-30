@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/57649418-1f1a-4186-92ad-705f2246708f" alt="DevOps & Cloud Engineer Banner" width="100%" />
+<img src="https://github.com/piyush0320/image/blob/main/linkedin1.png" alt="DevOps & Cloud Engineer Banner" width="100%" />
 
 ## 🚀 DevOps & Cloud Engineer
 
